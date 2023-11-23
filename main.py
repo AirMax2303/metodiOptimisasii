@@ -19,4 +19,5 @@ a = -4
 b = 6
 dih = dihotomy(a, b)
 print(f'Количество итераций {dih[1]}')
+
 print(f'Значение {dih[0]}')
